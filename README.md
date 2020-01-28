@@ -3,3 +3,9 @@
 
 #### 프로젝트 생성
 http://start.spring.io/
+
+#### 의존관계 확인
+```
+> gradlew dependencies
+```
+ 
