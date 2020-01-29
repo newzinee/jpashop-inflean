@@ -12,3 +12,4 @@ http://start.spring.io/
 #### View : thymeleaf 
 https://www.thymeleaf.org/
 
+정적 콘텐츠는 static에 
