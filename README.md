@@ -8,4 +8,7 @@ http://start.spring.io/
 ```
 > gradlew dependencies
 ```
- 
+
+#### View : thymeleaf 
+https://www.thymeleaf.org/
+
