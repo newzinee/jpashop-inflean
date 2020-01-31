@@ -13,3 +13,8 @@ http://start.spring.io/
 https://www.thymeleaf.org/
 
 정적 콘텐츠는 static에 
+
+#### h2 database 
+http://h2database.com/
+
+설치하고, 윈도우에서는 h2/bin/build.bat로 실행 
