@@ -18,3 +18,7 @@ https://www.thymeleaf.org/
 http://h2database.com/
 
 설치하고, 윈도우에서는 h2/bin/build.bat로 실행 
+
+#### 쇼핑몰 만들기
+회원, 상품, 주문 기능 
+
